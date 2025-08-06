@@ -1,19 +1,28 @@
-Weather_webApp
-I used open weather API to fetch data
-This web project done in html,css ,js
+# 🌦️ Weather Web App
 
-Features of the project.
-It provide dynamic weather data like temp, min max temp etc.
-Dynamic background images change according to weather status.
-Dynamic weather icon change according to weather status.
-It provide basic information like feels like temperature,humidity,pressure,wind speed.
-It will not accept empty input.
-it will give you alert if city name not matched with api data.
-a good ux/ui
-Snapshot
-[Default]
-(Weather App/ss/Default.png)
-[when you entered any valid city]
-(Weather App/ss/City Enter.png)
-when entered city did'nt matched with data
-(Weather App/ss/Bad Input.png)
+This is a simple yet dynamic Weather Web Application built using **HTML, CSS, and JavaScript**.  
+It uses the **OpenWeather API** to fetch real-time weather data based on the city entered by the user.
+
+---
+
+## ✨ Features
+
+- 🔄 **Dynamic Weather Data**: Displays temperature, min/max temp, weather status, and more.
+- 🌄 **Dynamic Background & Icons**: Changes background image and weather icon based on real-time weather status.
+- 🌡️ **Additional Information**: Shows "feels like" temperature, humidity, pressure, and wind speed.
+- 🚫 **Input Validation**: Prevents empty input submissions.
+- ⚠️ **Error Handling**: Alerts the user if the city name does not match any data from the API.
+- 💡 **Good UX/UI**: Clean, responsive design for better user experience.
+
+---
+
+## 📸 Snapshots
+
+### 🖼️ Default View  
+![Default](Weather%20App/ss/Default.png)
+
+### 🏙️ When You Enter a Valid City  
+![City Entered](Weather%20App/ss/City%20Enter.png)
+
+### ❌ When City Is Not Found  
+![Bad Input](Weather%20App/ss/Bad%20Input.png)
